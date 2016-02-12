@@ -1,0 +1,20 @@
+#clock {
+  cursor: pointer;
+  color: white;
+  text-decoration: bold;
+  font-size: 50px;
+  text-align: center;
+  font-family: Helvetica;
+  padding-top: 339px;
+  padding-right: 252px;
+  padding-left: 252px;
+  /*padding-bottom: 338px;*/
+
+}
+
+#timerbar {
+  border-bottom: 2px solid white;
+  /*padding-bottom: 312px;*/
+ }
+
+/*# sourceMappingURL=main.css.map */
