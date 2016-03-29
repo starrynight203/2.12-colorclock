@@ -40,7 +40,6 @@
       // console.log('text');
       var x = s[0];
       var y = s[1];
-      
       //console.log(x + 'and' + y)
       clock.textContent = '#FF:' + x + x + ':' + y + y;
     } else {
